@@ -24,3 +24,9 @@ A simple command-line dictionary application built in C++ that allows users to *
 3. Compile the program using a C++ compiler (e.g., `g++`):
    ```bash
    g++ -o dictionary.exe main.cpp
+
+---
+## Author
+
+**Mahesh**  
+GitHub: [@mahesh1477](https://github.com/mahesh1477)
